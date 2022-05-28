@@ -1,0 +1,51 @@
+.header{
+    color: rgb(221, 203, 39);
+    background-color:#3b5998;
+    height: 150px;
+    width: 100%;
+    
+}
+body{
+    margin: 0%;
+    font-family: Helvetic Neue, Arial, Helvetica, sans-serif;
+}
+.header1{
+    width: 50%;
+    padding-top: 50px;
+    float: left;
+}
+.logo{
+    font-size: 55px;
+    color: beige;
+    text-decoration: none;
+    padding-left: 500px;
+    font-weight: bold;
+    
+}
+.login{
+    width: 50%;
+    float: left;
+}
+.email{
+    font-size: 15px;
+    color: beige;
+    font-weight: bold;
+}
+.emaillength{
+    height: 60px;
+    width: 70px;
+}
+.body1{
+    padding-top: 20px;
+    padding-left: 20px;
+    float: left;
+}
+#inp{
+    width: 250px;
+    height: 70px;
+    border: bold;
+    border-radius: 20px;
+}
+.body2{
+float: left;
+}
